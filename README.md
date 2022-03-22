@@ -35,7 +35,7 @@
  3. Enviar o form para ser salvo
 
 ### Screenshot
-![](./public/images/Screenshot.png)
+![](./public/Screenshot.PNG)
 
 ## Processo
 
