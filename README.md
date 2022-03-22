@@ -57,6 +57,8 @@
  - Inicialização de aplicação React como o create-react-app
 
 ### Continuação do desenvolvimento
+ - Salvar todos os dados no storage do navegador
+ - Hospetar o site na heroku
 
 ## Autor
 - Linkedin - [Guilherme Vitória](https://www.linkedin.com/in/glsvitoria/)
