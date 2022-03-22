@@ -37,8 +37,6 @@
 
 ### Screenshot
 ![](./public/images/Screenshot.png)
-### Links
-- Site hospedado: [DT Money](link)
 
 ## Processo
 
