@@ -13,7 +13,6 @@
   - [Como rodar o projeto](#como-rodar-o-projeto)
   - [Como utilizar](#como-utilizar-o-projeto)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [Processo](#processo)
   - [Tecnologia utilizadas](#tecnologias-utilizadas)
   - [O que eu aprendi](#oque-eu-aprendi)
